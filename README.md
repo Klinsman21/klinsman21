@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   
-  <a href="joseklinsman259@gmail.com">
+  <a href="mailto:joseklinsman259@gmai.com?subject=Ol%C3%A1%20Klinsman%20Jorge">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
 
